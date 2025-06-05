@@ -1,0 +1,16 @@
+# .gitignore
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# If you ever add a backend with .env files
+# .env
+# .env.*
+
+# If you ever use npm/yarn and have a node_modules folder
+# node_modules/

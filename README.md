@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # D0GzBotDB
 Multipurpose Bot Dashboard.
 
@@ -106,3 +107,19 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 *(Specify a license, e.g., MIT License)*
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+=======
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+>>>>>>> 85652cc (Initial commit of D0GzBot Dashboard project files)
